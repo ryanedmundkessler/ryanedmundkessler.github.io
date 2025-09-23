@@ -7,7 +7,7 @@ author_profile: true
 
 ### Overcoming the Winner’s Curse: Leveraging Bayesian Inference to Improve Estimates of the Impact of Features Launched via A/B Tests
 Conference on Digital Experimentation (CODE) at MIT (2024) <br/>
-[Draft, October 2024](https://www.amazon.science/publications/overcoming-the-winners-curse-leveraging-bayesian-inference-to-improve-estimates-of-the-impact-of-features-launched-via-a-b-tests)
+[Extended abstract](https://www.amazon.science/publications/overcoming-the-winners-curse-leveraging-bayesian-inference-to-improve-estimates-of-the-impact-of-features-launched-via-a-b-tests)
 
 *Abstract:* Many data-driven companies measure the impact of product groups and allocate resources across them based on the estimated impacts of features they launch via A/B tests. In this doc, we show that, when based on a standard frequentist estimator of the impact of features, this practice can significantly overstate the impact of product groups and distort the allocation of resources. When this practice is instead based on a Bayesian estimator of the impact of features, there are no such problems when the underlying prior beliefs regarding the distribution of true impacts are correctly specified. To help assess performance of the estimators in practice, we conduct simulations, allowing for different forms of misspecification in prior beliefs regarding the distribution of true impacts. In these simulations, we find that the Bayesian estimator generally outperforms the frequentist estimator, even under certain forms of misspecification. We use both the frequentist and Bayesian estimators to measure cumulative impacts across A/B tests at Amazon, highlighting differences in their overall magnitude and their distribution across product groups.
 
