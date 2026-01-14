@@ -14,9 +14,9 @@ We develop a theoretical framework for sample splitting in A/B testing environme
 Conference on Digital Experimentation (CODE) at MIT (2025) <br/>
 [Extended abstract](https://www.amazon.science/publications/statistical-power-calculations-revisited-incorporating-beliefs-about-effect-sizes)
 
-[One of Amazon Science's 10 most-viewed publications in 2025](https://www.amazon.science/blog/the-10-most-viewed-publications-of-2025?utm_campaign=the-10-most-viewed-publications-of-2025&utm_medium=organic-asw&utm_source=linkedin&utm_content=2025-12-31-the-10-most-viewed-publications-of-2025&utm_term=2025-december)
-
 *Abstract:* In A/B testing, statistical power depends on both the variance of estimated impacts and the distribution of true impacts. Traditional power calculations, however, focus solely on the variance of estimated impacts. In this paper, we present two approaches to connecting power calculations to beliefs about the distribution of true impacts. First, we show how frequentists can compute “prior-informed average power” by taking a weighted average of conventional power across different effect sizes, with weights based on how likely that effect size is believed to occur. Second, we show how Bayesians can compute “Bayesian decision power” by taking a weighted average of the probability of meeting a launch or dial down criteria across different effect sizes, with weights again based on how likely that effect size is believed to occur. These approaches enable A/B testing tools to provide more realistic and informative assessments of statistical power. 
+
+[Received recognition as one of Amazon Science's 10 most-viewed publications in 2025](https://www.amazon.science/blog/the-10-most-viewed-publications-of-2025?utm_campaign=the-10-most-viewed-publications-of-2025&utm_medium=organic-asw&utm_source=linkedin&utm_content=2025-12-31-the-10-most-viewed-publications-of-2025&utm_term=2025-december)
 
 ### Overcoming the Winner’s Curse: Leveraging Bayesian Inference to Improve Estimates of the Impact of Features Launched via A/B Tests
 Conference on Digital Experimentation (CODE) at MIT (2024) <br/>
