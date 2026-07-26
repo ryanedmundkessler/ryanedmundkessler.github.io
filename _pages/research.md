@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Evaluating A/B Testing Methodologies via Sample Splitting: Theory and Practice
+with James McQueen and Miikka Rokkanen
 [Draft, March 2026](https://arxiv.org/abs/2512.03366v2)
 
 We develop a theoretical framework for sample splitting in A/B testing environments, where data for each test are partitioned into two splits to measure methodological performance when the true impacts of tests are unobserved. We show that sample-split estimators are generally biased for full-sample performance but consistently estimate sample-split analogues of it. We derive their asymptotic distributions, construct valid confidence intervals, and characterize the bias-variance trade-offs underlying sample-split design choices. We validate our theoretical results through simulations and provide implementation guidance for A/B testing products seeking to evaluate new estimators and decision rules.
