@@ -8,7 +8,7 @@ author_profile: true
 ## Working Papers
 
 ### Rewarding Noise: Incentives in Decentralized A/B Testing<br/>
-[Manuscript](../files/incentives_sanitized.pdf)
+[Draft, September 2026](../files/incentives_sanitized.pdf)
 
 *Abstract:* Many firms that run A/B tests struggle with low statistical power, increasing the risk that launch decisions are driven by noise rather than true impact. We argue that in decentralized organizations, low power can reflect misaligned incentives: product teams choose what and how to test on a customer-facing experience to maximize their private reward, while the experience owner sets evaluation rules and launch criteria to optimize the experience. We formalize this interaction via a principal-agent model and show that evaluating tests using raw impact estimates creates a reward to sampling noise. Correctly calibrated posterior-mean evaluation removes this reward and creates a local incentive to reallocate toward fewer, more precise tests of more ambitious ideas. Using data on A/B tests run at Amazon, we document patterns consistent with these model predictions. After an Amazon experience shifted to posterior-mean-based evaluation in 2024, test volume declined while both precision and the dispersion of true impacts increased, more than doubling signal-to-noise ratios. Our results highlight that A/B testing methodologies can shape not only measurement and launch decisions, but which tests are pursued in the first place.
 
