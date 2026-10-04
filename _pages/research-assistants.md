@@ -7,16 +7,12 @@ author_profile: true
 
 ## Malia
 
-*Black and Tan Coonhound / Labrador Retriever mix*
-
-*Research Assistant, 2018 - Present*
-
 <img src="/images/malia.jpeg" alt="Malia" width="400">
+
+Malia is a black and tan coonhound/labrador retriever mix, adopted from a shelter in Providence, RI. She approaches every claim with skepticism, rarely taking anything at face value until she's sniffed out the details herself. She is reserved with new collaborators but fiercely loyal once trust is established, and brings quiet dedication to every project. Outside of work, she enjoys playing fetch and eating cheese.
 
 ## Lucy
 
-*Golden Retriever / Labrador Retriever mix*
+<img src="/images/lucy.jpeg" alt="Lucy" width="400">
 
-*Research Assistant Emerita, 2020–2024*
-
-<img src="/images/lucy.jpeg" alt="Malia" width="400">
+Lucy was a golden retriever/labrador retriever mix, adopted from a shelter in Seattle, WA. She brought immediate warmth and love to every project she touched. Outside of work, she enjoyed curating her collection of beach ball toys and getting butt scratches. She passed away in 2025 and is dearly missed.
