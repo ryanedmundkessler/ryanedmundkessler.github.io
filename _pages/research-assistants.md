@@ -7,7 +7,7 @@ author_profile: true
 
 ## Malia
 
-Malia is a black and tan coonhound/labrador retriever mix, adopted from a shelter in Providence, RI. She approaches every claim with skepticism, refusing to take anything at face value until she's sniffed out the details herself. She is reserved with new collaborators but fiercely loyal once trust is established, and brings quiet dedication to every project. Outside of work, she enjoys playing fetch and eating cheese.
+Malia is a black and tan coonhound/labrador retriever mix, adopted from a shelter in Providence, RI. She approaches every claim with skepticism, refusing to take anything at face value until she's sniffed out the details herself. Outside of work, she enjoys playing fetch and eating cheese.
 
 <img src="/images/malia.jpeg" alt="Malia" width="400">
 
