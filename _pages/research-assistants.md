@@ -9,18 +9,14 @@ author_profile: true
 
 *Black and Tan Coonhound / Labrador Retriever mix*
 
-*Adopted from shelter in Providence, RI*
-
 *Research Assistant, 2018 - Present*
 
-<img src="/images/malia.jpeg" alt="Malia" width="300">
+<img src="/images/malia.jpeg" alt="Malia" width="400">
 
 ## Lucy
 
 *Golden Retriever / Labrador Retriever mix*
 
-*Adopted from shelter in Seattle, WA*
-
 *Research Assistant Emerita, 2020–2024*
 
-<img src="/images/lucy.jpeg" alt="Malia" width="300">
+<img src="/images/lucy.jpeg" alt="Malia" width="400">
