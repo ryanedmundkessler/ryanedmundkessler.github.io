@@ -5,8 +5,10 @@ permalink: /research-assistants/
 author_profile: true
 ---
 
-### Malia
+## Malia
 
 <img src="/images/malia.jpeg" alt="Malia" width="300">
 
-*Bio*:
+## Lucy
+
+<img src="/images/lucy.jpeg" alt="Malia" width="300">
