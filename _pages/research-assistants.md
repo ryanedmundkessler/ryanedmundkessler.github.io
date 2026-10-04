@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Assistants"
+title: ""
 permalink: /research-assistants/
 author_profile: true
 ---
