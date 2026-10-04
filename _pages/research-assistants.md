@@ -11,7 +11,7 @@ author_profile: true
 
 *Adopted from shelter in Providence, RI*
 
-*Research Assistant, 2016 - Present*
+*Research Assistant, 2018 - Present*
 
 <img src="/images/malia.jpeg" alt="Malia" width="300">
 
