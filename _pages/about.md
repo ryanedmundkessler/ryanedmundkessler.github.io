@@ -12,4 +12,4 @@ I am a Principal Economist at Amazon, where I develop methods to improve large-s
 
 I received a PhD in economics from Brown University in 2020. Prior to joining Brown, I worked as a research assistant at the Federal Reserve Bank of Boston and the University of Chicago Booth School of Business. I received a BA in quantitative economics from Drake University in 2010.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryanedmundkessler.ryanedmundkessler.github.io)
+![Number of visitors (since October 2026)](https://visitor-badge.laobi.icu/badge?page_id=ryanedmundkessler.ryanedmundkessler.github.io)
