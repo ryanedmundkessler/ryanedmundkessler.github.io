@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
+--- 
 
 ### Rewarding Noise: Incentives in Decentralized A/B Testing<br/>
 [Draft, October 2026](https://arxiv.org/abs/2610.19512)
