@@ -20,6 +20,7 @@ with James McQueen and Miikka Rokkanen<br/>
 *Abstract:* We develop a theoretical framework for sample splitting in A/B testing environments, where data for each test are partitioned into two splits to measure methodological performance when the true impacts of tests are unobserved. We show that sample-split estimators are generally biased for full-sample performance but consistently estimate sample-split analogues of it. We derive their asymptotic distributions, construct valid confidence intervals, and characterize the bias-variance trade-offs underlying sample-split design choices. We validate our theoretical results through simulations and provide implementation guidance for A/B testing products seeking to evaluate new estimators and decision rules.
 
 ## Conference Papers
+--- 
 
 ### Statistical Power Calculations Revisited: Incorporating Beliefs About Effect Sizes
 with Melany Gualavisi and Lorenzo Masoero<br/>
@@ -36,6 +37,7 @@ Conference on Digital Experimentation (CODE) at MIT (2024) <br/>
 *Abstract:* Many data-driven companies measure the impact of product groups and allocate resources across them based on the estimated impacts of features they launch via A/B tests. In this doc, we show that, when based on a standard frequentist estimator of the impact of features, this practice can significantly overstate the impact of product groups and distort the allocation of resources. When this practice is instead based on a Bayesian estimator of the impact of features, there are no such problems when the underlying prior beliefs regarding the distribution of true impacts are correctly specified. To help assess performance of the estimators in practice, we conduct simulations, allowing for different forms of misspecification in prior beliefs regarding the distribution of true impacts. In these simulations, we find that the Bayesian estimator generally outperforms the frequentist estimator, even under certain forms of misspecification. We use both the frequentist and Bayesian estimators to measure cumulative impacts across A/B tests at Amazon, highlighting differences in their overall magnitude and their distribution across product groups.
 
 ## Published Papers
+--- 
 
 ### The Effect of SNAP on the Composition of Purchased Foods: Evidence and Implications<br/>
 with Justine Hastings and Jesse Shapiro<br/>
@@ -45,6 +47,7 @@ American Economic Journal: Economic Policy 13, no. 3 (2021): 277-315 <br/>
 *Abstract:* We use detailed data from a large retail panel to study the effect of participation in the Supplemental Nutrition Assistance Program (SNAP) on the composition and nutrient content of foods purchased for at-home consumption. We find that the effect of SNAP participation is small relative to the cross-sectional variation in most of the outcomes we consider. Estimates from a model relating the composition of a household’s food purchases to the household’s current level of food spending imply that closing the gap in food spending between high- and low-SES households would not close the gap in summary measures of food healthfulness.
 
 ## Resting Papers 
+--- 
 
 ### Does Punishment Compel Payment? Driver's License Suspensions and Fine Delinquency<br/>
 [Draft, March 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545324)
