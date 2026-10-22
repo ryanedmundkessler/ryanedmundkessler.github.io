@@ -22,6 +22,13 @@ with James McQueen and Miikka Rokkanen<br/>
 ## Conference Papers
 --- 
 
+### Robust Estimation of Prior Parameters in Normal-Normal Empirical Bayes
+with Manu Burson <br/>
+Conference on Digital Experimentation (CODE) at MIT (2026) <br/>
+[Extended abstract](../files/bimle_external.pdf)
+
+*Abstract:* Many large-scale A/B testing systems leverage normal-normal empirical Bayes models to improve estimates of treatment impacts and launch decisions. We show that in these models maximum likelihood estimates of the variance of true impacts can be sensitive to a small number of extreme observations. We propose a bounded influence maximum likelihood estimator (BIMLE) that downweights such observations in proportion to their inconsistency with the model, reducing sensitivity while retaining the full sample in estimation. Absent extreme observations, BIMLE coincides with the standard MLE. In an application to A/B tests run at Amazon, BIMLE reduces instability in the estimated prior variance by over 50 percent while downweighting less than 0.1 percent of observations. 
+
 ### Statistical Power Calculations Revisited: Incorporating Beliefs About Effect Sizes
 with Melany Gualavisi and Lorenzo Masoero<br/>
 Conference on Digital Experimentation (CODE) at MIT (2025) <br/>
