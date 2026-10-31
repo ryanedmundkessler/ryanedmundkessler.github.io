@@ -46,7 +46,9 @@
   > summary {
     color: inherit !important;
     cursor: pointer;
-    font-weight: 600;
+    font-size: inherit;
+    font-style: italic;
+    font-weight: normal;
   }
 
   > summary::marker {
