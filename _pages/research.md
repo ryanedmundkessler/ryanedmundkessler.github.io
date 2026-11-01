@@ -48,7 +48,7 @@ Many large-scale A/B testing systems leverage normal-normal empirical Bayes mode
 with Melany Gualavisi and Lorenzo Masoero<br/>
 Conference on Digital Experimentation (CODE) at MIT (2025) <br/>
 [Extended abstract](https://www.amazon.science/publications/statistical-power-calculations-revisited-incorporating-beliefs-about-effect-sizes)<br/>
-[Received recognition as one of Amazon Science's 10 most-viewed publications in 2025](https://www.amazon.science/blog/the-10-most-viewed-publications-of-2025?utm_campaign=the-10-most-viewed-publications-of-2025&utm_medium=organic-asw&utm_source=linkedin&utm_content=2025-12-31-the-10-most-viewed-publications-of-2025&utm_term=2025-december)
+[Amazon Science's 7th most-viewed publication in 2025](https://www.amazon.science/blog/the-10-most-viewed-publications-of-2025?utm_campaign=the-10-most-viewed-publications-of-2025&utm_medium=organic-asw&utm_source=linkedin&utm_content=2025-12-31-the-10-most-viewed-publications-of-2025&utm_term=2025-december)
 
 <details class="paper-abstract" markdown="1">
 <summary>Abstract</summary>
