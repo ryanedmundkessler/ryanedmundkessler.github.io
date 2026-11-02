@@ -92,6 +92,11 @@
     background: transparent;
   }
 
+  .author__urls .fa-map-marker,
+  .author__urls .fa-github {
+    color: #8b949e;
+  }
+
   .author__avatar img {
     padding: 0;
     border: 1px solid #30363d;
