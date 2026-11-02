@@ -117,6 +117,10 @@
 }
 
 @media screen and (max-width: 924px) {
+  .sidebar--home .author__name {
+    display: none;
+  }
+
   .author__urls {
     background: #161b22;
     border-color: #30363d;
