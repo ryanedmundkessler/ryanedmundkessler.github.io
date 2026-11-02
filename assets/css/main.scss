@@ -40,6 +40,57 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+    background: #0d1117;
+  }
+
+  body {
+    color: #c9d1d9;
+    background: #0d1117;
+  }
+
+  h1, h2, h3, h4, h5, h6,
+  .author__name {
+    color: #f0f6fc;
+  }
+
+  a {
+    color: #58a6ff;
+  }
+
+  .masthead,
+  .greedy-nav,
+  .greedy-nav button {
+    background: #0d1117;
+  }
+
+  .greedy-nav a,
+  .author__urls a {
+    color: #c9d1d9;
+  }
+
+  .greedy-nav .hidden-links,
+  .author__urls,
+  .page__footer {
+    color: #c9d1d9;
+    background: #161b22;
+  }
+
+  .masthead,
+  hr,
+  .page__footer {
+    border-color: #30363d;
+  }
+
+  code,
+  pre {
+    color: #e6edf3;
+    background: #161b22;
+  }
+}
+
 .paper-abstract {
   margin: 0.5rem 0 1.5rem;
 
