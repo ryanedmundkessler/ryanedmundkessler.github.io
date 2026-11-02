@@ -40,7 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-@media (prefers-color-scheme: dark) {
+@media screen {
   html {
     color-scheme: dark;
     background: #0d1117;
@@ -56,8 +56,14 @@
     color: #f0f6fc;
   }
 
-  a {
+  a,
+  a:visited {
     color: #58a6ff;
+  }
+
+  a:hover,
+  a:focus {
+    color: #79c0ff;
   }
 
   .masthead,
@@ -69,6 +75,11 @@
   .greedy-nav a,
   .author__urls a {
     color: #c9d1d9;
+  }
+
+  .greedy-nav a:hover,
+  .author__urls a:hover {
+    color: #58a6ff;
   }
 
   .greedy-nav .hidden-links,
