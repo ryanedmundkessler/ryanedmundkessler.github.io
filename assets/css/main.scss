@@ -83,10 +83,19 @@
   }
 
   .greedy-nav .hidden-links,
-  .author__urls,
   .page__footer {
     color: #c9d1d9;
     background: #161b22;
+  }
+
+  .author__urls {
+    background: transparent;
+  }
+
+  .author__avatar img {
+    padding: 0;
+    border: 1px solid #30363d;
+    border-radius: 4px;
   }
 
   .masthead,
@@ -99,6 +108,21 @@
   pre {
     color: #e6edf3;
     background: #161b22;
+  }
+}
+
+@media screen and (max-width: 924px) {
+  .author__urls {
+    background: #161b22;
+    border-color: #30363d;
+  }
+
+  .author__urls::before {
+    border-color: #30363d transparent;
+  }
+
+  .author__urls::after {
+    border-color: #161b22 transparent;
   }
 }
 
