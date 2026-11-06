@@ -35,7 +35,7 @@ We develop a theoretical framework for sample splitting in A/B testing environme
 ### Robust Estimation of Prior Parameters in Normal-Normal Empirical Bayes
 with Manu Burson <br/>
 Conference on Digital Experimentation (CODE) at MIT (2026) <br/>
-[Extended abstract](../files/bimle_external.pdf)
+[Extended abstract](https://www.amazon.science/publications/robust-estimation-of-prior-parameters-in-normal-normal-empirical-bayes)
 
 <details class="paper-abstract" markdown="1">
 <summary>Abstract</summary>
